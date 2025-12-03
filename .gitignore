@@ -1,31 +1,21 @@
-# Python cache & build files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environment
 venv/
 env/
 
-# IDE / Editor folders
 .vscode/
 .idea/
 
-# Environment variables
 .env
 *.env
 
-# OS-specific
-.DS_Store
-Thumbs.db
 
-
-# Logs
 
 *.log
 
 
-# Python dependencies
 
 *.egg-info/
